@@ -125,10 +125,10 @@ data_movement = [
         title: "Tumble",
         icon: "grab",
         subtitle: "Contest: Dex(Acrobatics) vs Dex(Acrobatics)",
-        description: "Tumble through a hostile creature’s space, ducking and weaving past the opponent",
+        description: "A creature can try to tumble through a hostile creature’s space, ducking and weaving past the opponent.",
         reference: "DMG, pg. 271-272.",
         bullets: [
-            "A creature can try to tumble through a hostile creature’s space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature’s Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature’s space once this turn."
+            "As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature’s Dexterity (Acrobatics) check. If the tumbler wins the contest, it can move through the hostile creature’s space once this turn."
         ]
     }
 ]
