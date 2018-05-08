@@ -217,5 +217,29 @@ data_action = [
             "The attacker has disadvantage on its Strength (Athletics) check when it attempts to shove a creature aside.",
             "If that check is successful, the attacker moves the target 5 feet to a different space within the targets reach."
         ]
+    },
+    {
+        title: "Disarm",
+        icon: "hand",
+        subtitle: "Special Melee Attack",
+        description: "A creature can use a weapon attack to knock a weapon or another item from a target’s grasp.",
+        reference: "DMG, pg. 271-272.",
+        bullets: [
+            "The attacker makes an attack roll contested by the target’s Strength (Athletics) check or Dexterity (Acrobatics) check.",
+            "If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.",
+            "The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller."
+        ]
+    },
+    {
+        title: "Climb onto a Bigger Creature",
+        icon: "hand",
+        subtitle: "Special Melee Attack",
+        description: "A creature can use a weapon attack to knock a weapon or another item from a target’s grasp.",
+        reference: "DMG, pg. 271-272.",
+        bullets: [
+            "The attacker makes an attack roll contested by the target’s Strength (Athletics) check or Dexterity (Acrobatics) check.",
+            "If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.",
+            "The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller."
+        ]
     }
 ]
