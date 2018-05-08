@@ -183,5 +183,39 @@ data_action = [
         bullets: [
             "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
         ]
+    },
+    {
+        title: "Tumble",
+        icon: "grab",
+        subtitle: "Move through enemy space",
+        description: "A creature can try to tumble through a hostile creature’s space, ducking and weaving past the opponent.",
+        reference: "DMG, pg. 271-272.",
+        bullets: [
+            "As an action or a bonus action, the tumbler makes a Dexterity (Acrobatics) check contested by the hostile creature’s Dexterity (Acrobatics) check.",
+            "If the tumbler wins the contest, it can move through the hostile creature’s space once this turn."
+        ]
+    },
+    {
+        title: "Overrun",
+        icon: "journey",
+        subtitle: "Move through enemy space",
+        description: "When a creature tries to move through a hostile creature’s space, the mover can try to force its way through by overrunning the hostile creature.",
+        reference: "DMG, pg. 271-272.",
+        bullets: [
+            "As an action or a bonus action, the mover makes a Strength (Athletics) check contested by the hostile creature’s Strength (Athletics) check.",
+            "The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller.",
+            "If the mover wins the contest, it can move through the hostile creature’s space once this turn."
+        ]
+    },
+    {
+        title: "Shove Aside",
+        icon: "hand",
+        subtitle: "Special Melee Attack",
+        description: "With this option, a creature uses the special shove attack from the Player’s Handbook to force a target to the side, rather than away.",
+        reference: "DMG, pg. 271-272.",
+        bullets: [
+            "The attacker has disadvantage on its Strength (Athletics) check when it attempts to shove a creature aside.",
+            "If that check is successful, the attacker moves the target 5 feet to a different space within the targets reach."
+        ]
     }
 ]
