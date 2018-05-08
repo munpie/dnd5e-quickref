@@ -120,5 +120,16 @@ data_movement = [
             "If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.",
             "See the attack action for how to grapple a creature."
         ]
+    },
+    {
+        title: "Tumble",
+        icon: "grab",
+        subtitle: "Modifier: speed halved",
+        description: "Drag or carry the grappled creature with you",
+        reference: "PHB, pg. 195.",
+        bullets: [
+            "If you move while grappling another creature, your speed is halved, unless the creature is two or more sizes smaller than you.",
+            "See the attack action for how to grapple a creature."
+        ]
     }
 ]
