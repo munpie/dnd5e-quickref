@@ -35,7 +35,7 @@ data_bonusaction = [
     },
     {
         title: "Tumble",
-        icon: "grab",
+        icon: "journey",
         subtitle: "Move through enemy space",
         description: "A creature can try to tumble through a hostile creature’s space, ducking and weaving past the opponent.",
         reference: "DMG, pg. 271-272.",
